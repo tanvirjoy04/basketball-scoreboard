@@ -7,30 +7,23 @@ body {
   margin: 0;
   width: 575;
   height: 385;
-  opacity: 1;
 }
 
 .container {
   display: flex;
   justify-content: space-around;
   background: #1B244A;
-}
+  /* border: 2px solid red; */
 
-h3{
   color: white;
   font-family: Verdana;
   font-weight: 700;
   font-style: Bold;
   font-size: 40px;
-  line-height: 35.89px;
-  letter-spacing: 0%;
-  text-align: center;
-  width: 149;
-  height: 36;
-  top: 68px;
-  left: 340px;
-  opacity: 1;
-  margin-bottom: 0px;
+}
+
+.container div{
+  padding-top: 68px;
 }
 
 .digit-container{
@@ -66,6 +59,7 @@ p{
   display: flex;
   justify-content: space-around;
   background: #1B244A;
+  /* border: 2px solid red; */
 }
 
 button{
@@ -81,12 +75,11 @@ button{
   font-style: Regular;
   font-size: 18px;
   line-height: 27.81px;
-  letter-spacing: 0%;
   text-align: center;
   
   background-color: #1B244A;
   color: #9AABD8;
   border-color: #9AABD8;
   margin: 3px;
-  margin-bottom: 75px;
+  margin-bottom: 68px;
 }
