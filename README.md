@@ -1,5 +1,5 @@
-# Solo Project (PRO) - Basketball Scoreboard
-Solo Project aimed for Advanced Students learning Javascript.
+# Basketball Scoreboard
+Project aimed for Advanced Students learning Javascript.
 
 ## Requirements
 - Build it from "scratch"
